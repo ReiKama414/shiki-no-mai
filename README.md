@@ -5,6 +5,8 @@
 
 以 WebGL shader 與季節色票，向喜愛的作品《春夏秋冬代行者》致敬：讓春・夏・秋・冬的代行者在畫面上輪流起舞。
 
+**線上體驗：** https://reikama414.github.io/shiki-no-mai/
+
 ---
 
 ## 免責與原作歸屬
